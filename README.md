@@ -1,5 +1,5 @@
 # ResumeWebsite
 Lawrence Benitez Resume Website
 
-To run, use the command npm start
+To run, open index.html
 Alternatively go to https://lawrence.lmu.build
